@@ -1,4 +1,5 @@
 Bonjour 👋
+<br>
 I'm Martin Sion, a 23 yo developer.
 
 🎓 Currently, doing a Web Debeloper Bachelor at HETIC.
@@ -6,10 +7,6 @@ I'm Martin Sion, a 23 yo developer.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domino659&langs_count=5&theme=tokyonight)]()
 
 Feel free to contact me:
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/martin-sion"
 <!--
 **domino659/domino659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
