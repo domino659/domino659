@@ -6,8 +6,8 @@ I'm Martin Sion, a 23 yo developer.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domino659&langs_count=5&theme=tokyonight)]()
 
-Feel free to contact me:
 <!--
+Feel free to contact me:
 **domino659/domino659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
