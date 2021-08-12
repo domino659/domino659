@@ -1,5 +1,5 @@
 Bonjour 👋<br>
-<br><br>
+<br>
 I'm Martin Sion, a 23 yo developer.
 
 🎓 Currently, doing a Web Debeloper Bachelor at HETIC.
