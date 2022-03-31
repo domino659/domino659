@@ -7,8 +7,8 @@ I'am actually working half-time at **[Axians]** as a **devops**.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domino659&langs_count=5&theme=tokyonight)]()
 
-[Hetic]: www.hetic.net
-[HeticBachelor]: www.hetic.net/formations/bachelor-web
+[Hetic]: http://www.hetic.net
+[HeticBachelor]: http://www.hetic.net/formations/bachelor-web
 [Axians]: http://www.axians.fr
 
 
