@@ -1,12 +1,11 @@
 Bonjour 👋<br>
 <br>
-I'm Martin Sion, a 24 yo developer.
+I'm **Martin Sion**, a *24 yo developer*.
 
-🎓 Currently a full-time developer, doing a [bachelor's degree][HeticBachelor] (Bachelor Web Developer) at [Hetic].
-I'am actually working half-time at [Axians] as a devops.
+🎓 Currently a **full-time developer**, doing a [bachelor's degree][HeticBachelor] (Bachelor Web Developer) at **[Hetic]**.
+I'am actually working half-time at **[Axians]** as a **devops**.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domino659&langs_count=5&theme=tokyonight)]()
-
 
 [Hetic]: www.hetic.net
 [HeticBachelor]: www.hetic.net/formations/bachelor-web
