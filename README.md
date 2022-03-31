@@ -3,13 +3,14 @@ Bonjour 👋<br>
 I'm Martin Sion, a 24 yo developer.
 
 🎓 Currently a full-time developer, doing a bachelor's degree (Bachelor Web Developer) at HETIC.
-I'am actually working half-time at [Axians][Axians] as a devops.
+I'am actually working half-time at [Axians] as a devops.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=domino659&langs_count=5&theme=tokyonight)]()
 
 
-
+[Hetic]: www.hetic.net
 [Axians]: http://www.axians.fr
+
 
 <!--
 Feel free to contact me:
