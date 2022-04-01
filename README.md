@@ -1,4 +1,4 @@
-![cthulhu](https://github.com/domino659/Storage/blob/master/cthulhu.png?raw=true)
+![cthulhu](https://github.com/domino659/Storage/blob/master/cthulhu.png)
 
 Bonjour 👋, I'm **Martin Sion**, a *24 yo developer*.
 
