@@ -1,5 +1,5 @@
-![cthulhu](https://github.com/domino659/Storage/blob/master/cthulhu.png)
-
+<!-- ![cthulhu](https://github.com/domino659/Storage/blob/master/cthulhu.png)
+ -->
 Bonjour 👋, I'm **Martin Sion**, a *24 yo developer*.
 
 🎓 Currently a **full-time developer**, doing a [bachelor's degree][HeticBachelor] (Bachelor Web Developer) at **[Hetic]**. I'am actually working half-time at **[Axians]** as a **devops**.
