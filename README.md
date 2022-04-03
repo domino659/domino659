@@ -17,8 +17,6 @@
 
 ## <code>My Tech</code>
 
-<br>
-
 ![Python][Python-shield]
 ![PHP][PHP-shield]
 ![Vue.js][Vue.js-shield]
@@ -35,9 +33,9 @@
 ![Linux][Linux-shield]
 ![Debian][Debian-shield]
 
-## <code>My Statistics</code>
+---
 
-<br>
+## <code>My Statistics</code>
 
 <p align="left">
   <a href="https://github.com/domino659/">
@@ -52,7 +50,7 @@
 
 <br>
 
-## <img height=30 align=left src="https://github.com/domino659/Storage/blob/master/firelink.ico"> Feel free to contact me:
+## <img height=30 align=left src="https://github.com/domino659/Storage/blob/master/firelink.ico"> <code>Feel free to contact me:<code>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 &nbsp;
