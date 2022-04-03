@@ -1,7 +1,5 @@
 <img width=45% width=300 align=left src="https://github.com/domino659/Storage/blob/master/cthulhu.png">
 
-
-
 ## Hi 👋, I'm **Martin Sion** a *24 yo developer.*
 
 <br>
