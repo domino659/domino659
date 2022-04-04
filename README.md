@@ -48,7 +48,7 @@
 
 <br>
 
-## <img height=30 align=left src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"><code>Feel free to contact me:</code>
+## <img height=35 src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"><code>Feel free to contact me</code>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 &nbsp;
