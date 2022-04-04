@@ -48,7 +48,7 @@
 
 <br>
 
-## <img height=30 align=left src="https://github.com/Storage-domino659/Document-Storage/blob/master/firelink.ico"> <code>Feel free to contact me:</code>
+## <img height=30 align=left src="https://github.com/Storage-domino659/Document-Storage/blob/master/vaati_sword.png"> <code>Feel free to contact me:</code>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 &nbsp;
