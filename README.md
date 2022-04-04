@@ -6,7 +6,7 @@
 
 ## 🎓 Currently a **full-time developer**, doing a [bachelor's degree][HeticBachelor-link] (Bachelor Web Developer) at **[Hetic][Hetic-link]**. 
 
-## 💼 I'am actually working half-time at **[Axians][Axians-link]** as a **devops**.
+## 💼 I'am actually work-study program at **[Axians][Axians-link]** as a **devops**.
 
 
 <img width=100% height=1 align=middle src="">
