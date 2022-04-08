@@ -15,7 +15,7 @@
 
 ## <code>My Tech</code>
 
-[![Python][Python-shield]](https://github.com/domino659)
+[![Python][Python-shield]](domino659)
 [![PHP][PHP-shield]](domino659)
 [![Vue.js][Vue.js-shield]](domino659)
 [![JavaScript][JavaScript-shield]](domino659)
@@ -60,7 +60,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Link -->
-[domino659][https://github.com/domino659/]
+[domino659][https://github.com/domino659]
 [HeticBachelor-link]: http://www.hetic.net/formations/bachelor-web
 [Hetic-link]: http://www.hetic.net
 [Axians-link]: http://www.axians.fr
