@@ -9,7 +9,7 @@
 ## 💼 I'am actually an employee at **[Axians][Axians-link]** working as a **devops** as part of a work-study program for my school.
 
 
-<img width=100% height=1 align=middle src="">
+<img width=100% height=1 align=middle src="<a href="https://github.com/domino659/">">
 
 ---
 
@@ -48,7 +48,7 @@
 
 <br>
 
-## <img height=35 src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"><code>Feel free to contact me</code>
+## <a href="https://github.com/domino659/"><img height=35 src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"></a><code>Feel free to contact me</code>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 &nbsp;
@@ -56,7 +56,7 @@
 
 <br>
 
-<img width=100% src="https://github.com/domino659/domino659/blob/main/File/vaati.gif">
+<a href="https://github.com/domino659/"><img width=100% src="https://github.com/domino659/domino659/blob/main/File/vaati.gif"></a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Link -->
