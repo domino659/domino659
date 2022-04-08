@@ -60,7 +60,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Link -->
-[domino659][https://github.com/domino659]
+[domino659][./https://github.com/domino659/]
 [HeticBachelor-link]: http://www.hetic.net/formations/bachelor-web
 [Hetic-link]: http://www.hetic.net
 [Axians-link]: http://www.axians.fr
