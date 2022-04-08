@@ -15,7 +15,7 @@
 
 ## <code>My Tech</code>
 
-[![Python][Python-shield]](https://github.com/Ismoh/NoitaMP)
+[![Python][Python-shield]](https://github.com/domino659)
 [![PHP][PHP-shield]](domino659)
 [![Vue.js][Vue.js-shield]](domino659)
 [![JavaScript][JavaScript-shield]](domino659)
