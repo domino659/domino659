@@ -1,6 +1,5 @@
-<img width=45% width=300 align=left src="https://github.com/domino659/domino659/blob/main/File/cthulhu.png">
-
-## Hi 👋, I'm **Martin Sion** a *24 yo developer.*
+<a href="https://github.com/domino659/"><img width=45% width=300 align=left src="https://github.com/domino659/domino659/blob/main/File/cthulhu.png"></a>
+https://github.com/domino659## Hi 👋, I'm **Martin Sion** a *24 yo developer.*
 
 <br>
 
@@ -48,7 +47,7 @@
 
 <br>
 
-## <a href="https://github.com/domino659/"><img height=35 src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"></a><code>Feel free to contact me</code>
+## <a href="https://github.com/domino659"><img height=35 src="https://github.com/domino659/domino659/blob/main/File/vaati_sword.png"></a><code>Feel free to contact me</code>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 &nbsp;
@@ -56,7 +55,7 @@
 
 <br>
 
-<a href="https://github.com/domino659/"><img width=100% src="https://github.com/domino659/domino659/blob/main/File/vaati.gif"></a>
+<a href="https://github.com/domino659"><img width=100% src="https://github.com/domino659/domino659/blob/main/File/vaati.gif"></a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Link -->
