@@ -15,21 +15,21 @@
 
 ## <code>My Tech</code>
 
-![Python][Python-shield]
-![PHP][PHP-shield]
-![Vue.js][Vue.js-shield]
-![JavaScript][JavaScript-shield]
-<!-- ![GoLand][GoLand-shield]
-![C][C-shield]
-![Ruby][Ruby-shield] -->
+[![Python][Python-shield]](domino659)
+[![PHP][PHP-shield]](domino659)
+[![Vue.js][Vue.js-shield]](domino659)
+[![JavaScript][JavaScript-shield]](domino659)
+<!-- [![GoLand][GoLand-shield]](domino659)
+[![C][C-shield]](domino659)
+[![Ruby][Ruby-shield]](domino659) -->
 
-![Git][Git-shield]
-![GitHub][GitHub-shield]
-![Ansible][Ansible-shield]
-![Terraform][Terraform-shield]
+[![Git][Git-shield]](domino659)
+[![GitHub][GitHub-shield]](domino659)
+[![Ansible][Ansible-shield]](domino659)
+[![Terraform][Terraform-shield]](domino659)
 
-![Linux][Linux-shield]
-![Debian][Debian-shield]
+[![Linux][Linux-shield]](domino659)
+[![Debian][Debian-shield]](domino659)
 
 ---
 
@@ -44,7 +44,7 @@
    
 <br>
 
-![domino659 Trips' Activity Graph][Activity-Graph]
+[![domino659 Trips' Activity Graph][Activity-Graph]](domino659)
 
 <br>
 
@@ -60,6 +60,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Link -->
+[domino659][https://github.com/domino659]
 [HeticBachelor-link]: http://www.hetic.net/formations/bachelor-web
 [Hetic-link]: http://www.hetic.net
 [Axians-link]: http://www.axians.fr
