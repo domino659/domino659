@@ -8,7 +8,7 @@
 ## 💼 I'am actually an employee at **[Axians][Axians-link]** working as a **devops** as part of a work-study program for my school.
 
 
-<img width=100% height=1 align=middle src="<a href="https://github.com/domino659/">
+<img width=100% height=1 align=middle src="">
 
 ---
 
