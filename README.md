@@ -43,7 +43,7 @@
    
 <br>
 
-[![domino659 Trips' Activity Graph][Activity-Graph]](https://github.com/domino659)
+<!-- [![domino659 Trips' Activity Graph][Activity-Graph]](https://github.com/domino659) -->
 
 <br>
 
