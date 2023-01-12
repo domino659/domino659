@@ -1,5 +1,5 @@
 <a href="https://github.com/domino659/"><img width=45% width=300 align=left src="https://github.com/domino659/domino659/blob/main/File/cthulhu.png"></a>
-## Hi 👋, I'm **Martin Sion** a *24 yo developer.*
+## Hi 👋, I'm **Martin Sion** a *25 yo developer.*
 
 <br>
 
@@ -37,7 +37,7 @@
 <p align="left">
   <a href="https://github.com/domino659/">
 <!--     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=domino659&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=domino659&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=domino659&theme=gruvbox&hide_border=true" />
   </a>
 </p>
    
