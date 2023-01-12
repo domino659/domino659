@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="https://github.com/domino659/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=domino659&show_icons=true&theme=gruvbox&hide_border=true" />
+<!--     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=domino659&show_icons=true&theme=gruvbox&hide_border=true" /> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=domino659&theme=gruvbox&hide_border=true" />
   </a>
 </p>
