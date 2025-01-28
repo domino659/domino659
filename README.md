@@ -1,11 +1,9 @@
 <a href="https://github.com/domino659/"><img width=45% width=300 align=left src="https://github.com/domino659/domino659/blob/main/File/cthulhu.png"></a>
-## Hi 👋, I'm **Martin Sion** a *25 yo developer.*
+## Hi 👋, I'm **Martin Sion** a *27 yo developer.*
 
 <br>
 
-## 🎓 Currently a **full-time developer**, doing a [bachelor's degree][HeticBachelor-link] (Bachelor Web Developer) at **[Hetic][Hetic-link]**. 
-
-## 💼 I'am actually an employee at **[Axians][Axians-link]** working as a **devops** as part of a work-study program for my school.
+## 🎓 Currently a **full-time developer**.
 
 
 <img width=100% height=1 align=middle src="">
