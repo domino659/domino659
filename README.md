@@ -12,6 +12,8 @@
 **System Administrator** with expertise in infrastructure automation and DevOps practices.
 Specialized in Linux system administration, configuration management, and infrastructure as code.
 
+<br clear="left">
+
 ---
 
 ## <code>My Tech</code>
