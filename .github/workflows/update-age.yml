@@ -1,0 +1,50 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update age in README
+        run: |
+          BIRTH_DATE="1997-11-24"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          
+          BIRTH_YEAR=$(echo $BIRTH_DATE | cut -d'-' -f1)
+          BIRTH_MONTH=$(echo $BIRTH_DATE | cut -d'-' -f2)
+          BIRTH_DAY=$(echo $BIRTH_DATE | cut -d'-' -f3)
+          
+          CURRENT_YEAR=$(echo $CURRENT_DATE | cut -d'-' -f1)
+          CURRENT_MONTH=$(echo $CURRENT_DATE | cut -d'-' -f2)
+          CURRENT_DAY=$(echo $CURRENT_DATE | cut -d'-' -f3)
+          
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          
+          if [ $CURRENT_MONTH -lt $BIRTH_MONTH ] || ([ $CURRENT_MONTH -eq $BIRTH_MONTH ] && [ $CURRENT_DAY -lt $BIRTH_DAY ]); then
+            AGE=$((AGE - 1))
+          fi
+          
+          sed -i "s/\([0-9]\{1,3\}\) years old/$AGE years old/" README.md
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet && git diff --staged --quiet || (git add README.md && git commit -m "chore: update age in README [skip ci]")
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
