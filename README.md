@@ -14,8 +14,6 @@ Specialized in Linux system administration, configuration management, and infras
 
 <br clear="left">
 
----
-
 ## <code>My Tech</code>
 
 [![Python][Python-shield]](https://github.com/domino659)
