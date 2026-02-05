@@ -15,8 +15,6 @@ Specialized in Linux system administration, configuration management, and infras
 
 <img width=100% height=1 align=middle src="">
 
----
-
 ## <code>My Tech</code>
 
 [![Python][Python-shield]](https://github.com/domino659)
@@ -31,6 +29,7 @@ Specialized in Linux system administration, configuration management, and infras
 [![Packer][Packer-shield]](https://github.com/domino659)
 
 [![AWS][AWS-shield]](https://github.com/domino659)
+[![Azure][Azure-shield]](https://github.com/domino659)
 
 [![Linux][Linux-shield]](https://github.com/domino659)
 [![RedHat][RedHat-shield]](https://github.com/domino659)
@@ -65,6 +64,7 @@ Specialized in Linux system administration, configuration management, and infras
 
 <!-- Cloud Provider -->
 [AWS-shield]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[Azure-shield]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
 
 <!-- OS -->
 [Linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
