@@ -1,11 +1,7 @@
 <a href="https://github.com/domino659/"><img width=45% width=300 align=left src="https://github.com/domino659/domino659/blob/main/File/cthulhu.png"></a>
 ## Hi 👋, I'm **Martin Sion**, *25 years old*
 
-<br>
-
 ### 💼 System Administrator & DevOps Engineer
-
-<br>
 
 ## 🎓 Professional Background
 
